@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "{ACCCEE34-4B00-3C3D-46D3-F8926FDADBB4}",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
+	"Enterprise": false,
 	"Modules": [
 		{
 			"Name": "BehaviorTree",
